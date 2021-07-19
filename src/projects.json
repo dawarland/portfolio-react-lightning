@@ -1,0 +1,341 @@
+{
+  "projects": [
+    {
+      "Name": "The Last Soldier Defender (16,51/20)",
+      "Presentation": "TLSD est un jeu de type Tower Defense programmé en Java. Le soldat arrive sur une planète et doit défendre son vaisseau des vagues d'attaques ennemies, en disposant tactiquement de tours de combat. Arriverez-vous à atteindre le niveau final ?",
+      "Objectif": "Réalisé en groupe de 3 élèves, ce projet de conception d'un jeu en Java respecte l'architecture MVC pour la validation d'une unité d'enseignement. Possibilité d'ajouter des fonctionnalités : création de différents niveaux/mondes dynamiques, gestion des meilleurs scores, drag and drop.",
+      "Contexte": "Projet scolaire réalisé lors de ma deuxième année de DUT informatique afin de valider une unité d'enseignement sur le langage de programmation Java.",
+      "Role": "Chef de projet / Développeur",
+      "Missions": [
+        {
+          "mission": "Présenter des sprints"
+        },
+        {
+          "mission": "Programmer l'affichage du jeu à l'aide des informations données par le contrôleur"
+        },
+        {
+          "mission": "Programmer des algorithmes de parcours en profondeur"
+        }
+      ],
+      "Benefits": [
+        {
+          "benefit": "Montée en compétences sur les technologies utilisées et sur l'encadrement d'un projet"
+        },
+        {
+          "benefit": "Bon retour sur le livrable (agréable à jouer, niveau de difficulté modéré, graphisme cohérent etc...)"
+        },
+        {
+          "benefit": "Bonne collaboration d'équipe"
+        },
+        {
+          "benefit": "Répartition équitable des tâches"
+        }
+      ],
+      "Constraints": [
+        {
+          "constraint": "Certaines fonctionnalités prévues au départ non mises en place faute de temps"
+        },
+        {
+          "constraint": "Le jeu n'a pas été mis en ligne"
+        }
+      ],
+      "Skills": [
+        {
+          "skill": "Gestion de Projet Agile Scrum"
+        },
+        {
+          "skill": "Java 11",
+          "url": "https://www.solutions-numeriques.com/wp-content/uploads/2016/03/java.png"
+        },
+        {
+          "skill": "Scene Builder",
+          "url": "https://upload.wikimedia.org/wikipedia/fr/f/fe/SceneBuilderLogo.png"
+        },
+        {
+          "skill": "Git",
+          "url": "data:image/png;base64,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"
+        },
+        {
+          "skill": "Design Pattern"
+        },
+        {
+          "skill": "Leadership"
+        },
+        {
+          "skill": "Autonomie"
+        },
+        {
+          "skill": "Esprit d'équipe"
+        }
+      ],
+      "img": "https://williamsarland-dev-ed--c.visualforce.com/resource/1589152155000/tlsd",
+      "Url": "https://github.com/dawarland"
+    },
+    {
+      "Name": "Extranet Code Code Codec (16/20)",
+      "Presentation": "Site sécurisé de gestion des élèves avec plusieurs niveaux d'utilisateurs, connecté à un microservice qui alerte en cas d'absence d'un professeur.",
+      "Objectif": "Lors de mon arrivée, la gestion des élèves se faisait sur un tableur Excel. J'ai donc proposé la conception d'un site de gestion comprenant diverses fonctionnalités. C'est donc un projet scolaire et professionnel réalisé seul. From Scratch, programmé en PHP et respectant l'architecture MVC pour la validation d'une unité d'enseignement.",
+      "Contexte": "CodeCodeCodec est une école d'informatique pour les enfants âgés de 7 à 14 ans, en manque d'un outil permettant l'optimisaiton de la gestion des planning. ",
+      "Role": "Développeur Full Stack",
+      "Missions": [
+        {
+          "mission": "Analyser le besoin métier"
+        },
+        {
+          "mission": "Elaborer du MCD"
+        },
+        {
+          "mission": "Développer un site internet"
+        },
+        {
+          "mission": "Mettre en production sur le serveur de l'entreprise"
+        }
+      ],
+      "Benefits": [
+        {
+          "benefit": "Premier projet professionnel ➔ Utilisation concrète du livrable"
+        },
+        {
+          "benefit": "Montée en compétences sur les technologies utilisées et sur l'encadrement d'un projet"
+        },
+        {
+          "benefit": "Autoformation"
+        }
+      ],
+      "Constraints": [
+        {
+          "constraint": "Technologies imposées par la matière."
+        },
+        {
+          "constraint": "Legèreté de la documentation rendant la maintenance plus complexe."
+        },
+        {
+          "constraint": "Faute de temps, je n'ai pas pu automatiser l'ajout d'un nouvel élève suite à une commande sur le site marchand."
+        }
+      ],
+      "Skills": [
+        {
+          "skill": "PHP",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png"
+        },
+        {
+          "skill": "Python",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+        },
+        {
+          "skill": "Bootstrap",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"
+        },
+        {
+          "skill": "Gestion de Projet"
+        },
+        {
+          "skill": "Déploiement"
+        },
+        {
+          "skill": "Autonomie"
+        },
+        {
+          "skill": "Autodidactie"
+        },
+        {
+          "skill": "UI/UX Design"
+        }
+      ],
+      "img": "https://williamsarland-dev-ed--c.visualforce.com/resource/1589152007000/extranet",
+      "Url": "https://github.com/dawarland"
+    },
+    {
+      "Name": "Générateur de CV",
+      "Presentation": "Projet personnel en Javascript (en cours de développement)",
+      "Objectif": "Conception du site en vue de progresser sur ce langage",
+      "Contexte": "Désireux de progresser sur le langage JavaScript, je me suis fixer comme objectif de développer un outil à forte utilité sociale.",
+      "Role": "Développeur Full Stack",
+      "Missions": [
+        {
+          "mission": "Concevoir des fonctions et des classes de test"
+        },
+        {
+          "mission": "Mettre en production le livrable"
+        }
+      ],
+      "Benefits": [
+        {
+          "benefit": "Montée en compétences sur les technologies utilisées."
+        },
+        {
+          "benefit": "Autodidactie."
+        }
+      ],
+      "Constraints": [
+        {
+          "constraint": "Manque de temps pour faire avancer le projet."
+        }
+      ],
+      "Skills": [
+        {
+          "skill": "React",
+          "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+        },
+        {
+          "skill": "Javascript",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"
+        },
+        {
+          "skill": "Autonomie"
+        },
+        {
+          "skill": "Persévérance"
+        },
+        {
+          "skill": "Rigueur"
+        }
+      ],
+      "img": "aww.png",
+      "url": "https://github.com/dawarland"
+    },
+    {
+      "Name": "Démineur (20/20)",
+      "Presentation": "Le célèbre jeu du démineur en console et sans interface graphique.",
+      "Objectif": "Projet scolaire noté réalisé en binôme. Conception d'un jeu pour console (terminal) en C. Possibilité de paramétrer la taille du terrain, de sauvegarder/reprendre une partie, d'obtenir le meilleur score etc...",
+      "Contexte": "Projet scolaire en binôme afin d'expérimenter le langage C",
+      "Role": "Chef de projet / Développeur",
+      "Missions": [
+        {
+          "mission": "Programmer les algorithmes du jeu"
+        },
+        {
+          "mission": "Rapporter les problèmes de groupe rencontrés"
+        }
+      ],
+      "Benefits": [
+        {
+          "benefit": "Montée en compétences sur la technologie utilisée"
+        }
+      ],
+      "Constraints": [
+        {
+          "constraint": "Manque de temps (nous n'avons pas pu mettre en place l'IHM)"
+        }
+      ],
+      "Skills": [
+        {
+          "skill": "Langage C",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/262px-The_C_Programming_Language_logo.svg.png"
+        },
+        {
+          "skill": "Gestion de projet"
+        },
+        {
+          "skill": "Autodidactie"
+        },
+        {
+          "skill": "Rigueur"
+        },
+        {
+          "skill": "Leadership"
+        }
+      ],
+      "img": "https://williamsarland-dev-ed--c.visualforce.com/resource/1589150950000/demineur",
+      "url": "https://github.com/dawarland"
+    },
+    {
+      "Name": "Formulaire de contact \"Web-to-Case\"",
+      "Presentation": "Utilisation de la fonctionnalité de demande de support pour le formulaire de contact de mon site",
+      "Objectif": "Utilisation des serveurs de Salesforce pour la gestion des messages reçus via mon site. Cela me permet de profiter de la puissance de Salesforce : envoi automatique d'un accusé de réception, reporting, suivi du traitement d'un message etc...",
+      "Contexte": "Projet personnel de s'inspirer des fonctionnalités du CRM Salesforce afin de les transposer sur mon site internet",
+      "Role": "Administrateur / Développeur Salesforce",
+      "Missions": [
+        {
+          "mission": "Configurer l'organisation Salesforce"
+        },
+        {
+          "mission": "Créer des Flow Salesforce"
+        },
+        {
+          "mission": "Intégrer des Web-to-case"
+        }
+      ],
+      "Benefits": [
+        {
+          "benefit": "Montée en compétences sur la technologie utilisée"
+        },
+        {
+          "benefit": "Gain de temps à venir grâce à l'automatisation"
+        }
+      ],
+      "Constraints": [
+        {
+          "constraint": "Réalisation des tâches sur une organisation de développement. Fonctionnalités payantes manquantes."
+        }
+      ],
+      "Skills": [
+        {
+          "skill": "Salesforce",
+          "url": "https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg"
+        },{
+          "skill": "React",
+          "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+        },
+        {
+          "skill": "Autonomie"
+        }
+      ],
+      "img": "",
+      "url": "https://github.com/dawarland"
+    },
+    {
+      "Name": "Portfolio \"Salesforce\"",
+      "Presentation": "Développement d'un application web reprenant la charte graphique de Salesforce",
+      "Objectif": "Transformation de mon portfolio en CRM, integration d'une application React à l'écosysteme Salseforce.",
+      "Contexte": "Projet personnel ayant pour but une montée en compétence sur l'integration de systemes externes",
+      "Role": "Développeur Full Stack",
+      "Missions": [
+        {
+          "mission": "Planifier les choix d'architecture"
+        },
+        {
+          "mission": "Configurer l'organisation Salesforce"
+        },
+        {
+          "mission": "Créer les classes Apex"
+        },
+        {
+          "mission": "Concevoir le 2eme portfolio"
+        }
+      ],
+      "Benefits": [
+        {
+          "benefit": "Montée en compétences sur la technologie utilisée"
+        },
+        {
+          "benefit": "Optimisation de la gestion du portfolio gràce à la puissance du CRM"
+        }
+      ],
+      "Constraints": [
+        {
+          "constraint": "Réalisation des tâches sur une organisation de développement. Fonctionnalités payantes manquantes."
+        }
+      ],
+      "Skills": [
+        {
+          "skill": "Salesforce",
+          "url": "https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg"
+        },
+        {
+          "skill": "React",
+          "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+        },
+        {
+          "skill": "Postman",
+          "url": "https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg"
+        },
+        {
+          "skill": "Autonomie"
+        }
+      ],
+      "img": "",
+      "url": "https://github.com/dawarland"
+    }
+  ]
+}

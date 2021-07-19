@@ -1,0 +1,285 @@
+{
+  "landing": {
+    "firstName": "Williams",
+    "lastName": "Arland Anyou",
+    "city": "Paris",
+    "email": "contact@williamsarland.fr",
+    "poste": "Développeur Salesforce",
+    "bio": "Actuellement étudiant en Master Ingénierie du Logiciel, j'ai pu de par mes diverses expériences acquérir de multiples compétences et aptitudes indispensables dans ces métiers. Passionné par le numérique et la logique, faire carrière dans le développement informatique m'a semblé inéluctable.",
+    "linkedin": "https://www.linkedin.com/in/williams-arland-374106118/",
+    "github": "https://github.com/dawarland"
+  },
+  "experience": [
+    {
+      "position": "Consultant Technique Salesforce ☁",
+      "organization": "France Boissons x Capgemini ♠",
+      "city": "Boulogne-Billancourt",
+      "aboutWork": [
+        {
+          "aw" : "Préparation / Présentation de démo client"
+        },
+        {
+          "aw" : "Mise en place de l’integration sécurisé des systèmes externes (SAP, BDD client, API, Odata avec authentification OAuth)"
+        },
+        {
+          "aw" : "Développement de classe APEX et de test nécessaire"
+        },
+        {
+          "aw" : "Développement de Lightning Web Component et déploiement"
+        },
+        {
+          "aw" : "Déploiement les différentes realeases en production"
+        }
+      ],
+      "fromDate": "Septembre 2021 -",
+      "toDate": "Présent",
+      "logoUrl": "https://www.france-boissons.fr/uploads/151006_logo_FB_octobre_3906_001.jpg"
+    },
+    {
+      "position": "Consultant Technique Salesforce ☁",
+      "organization": "Total x Capgemini ♠",
+      "city": "La Defense",
+      "aboutWork": [
+        {
+          "aw" : "Comprendre les enjeux client (métier, culture)"
+        },
+        {
+          "aw" : "Savoir rapporter de manière pertinente les difficultés et/ou les risques sprint/projet"
+        },
+        {
+          "aw" : "Développer les classes APEX et les tests nécessaires"
+        },
+        {
+          "aw" : "Développer les Lightning Component et Ligntning Web Component"
+        },
+        {
+          "aw" : "Mettre en déploiement les différentes realeases"
+        }
+      ],
+      "fromDate": "Décembre 2019 -",
+      "toDate": "Aout 2020",
+      "logoUrl": "https://www.total.com/themes/custom/total_com/dist/img/logo_total_290x70px_v3.png"
+    },
+    {
+      "position": "Consultant Technique Salesforce ☁",
+      "organization": "Naturalia x Capgemini ♠",
+      "city": "Issy Les Moulineaux",
+      "aboutWork": [
+        {
+          "aw" : "Analyser les besoins clients"
+        },
+        {
+          "aw" : "Organiser et traiter des User Stories confiées au sein d'un sprint"
+        },
+        {
+          "aw" : "Transformer un besoin métier simple en solution technique"
+        }
+      ],
+      "fromDate": "Septembre 2019 -",
+      "toDate": "Décembre 2019",
+      "logoUrl": "https://naturalia.fr/static/version1586888881/frontend/Naturalia/default/fr_FR/images/header-main_logo.png"
+    },
+    {
+      "position": "Ingenieur Logiciel",
+      "organization": "Capgemini ♠",
+      "city": "Issy Les Moulineaux",
+      "aboutWork":
+      {
+        "aw": "Développeur CRM en alternance"
+      },
+      "fromDate": "Septembre 2019 -",
+      "toDate": "Août 2021",
+      "logoUrl": "https://www.capgemini.com/wp-content/themes/capgemini-komposite/assets/images/logo.svg"
+    },
+    {
+      "position": "Professeur Associé",
+      "organization": "CodeCodeCodec",
+      "city": "Paris",
+      "aboutWork": [
+        {
+          "aw" : "Animer des ateliers de groupe composés de 8 élèves ( âgés de 7 à 14 ans)"
+        },
+        {
+          "aw" : "Elaborer des cours selon la matrice du manuel fourni par l’éducation nationale « 123, Codez ! »"
+        },
+        {
+          "aw" : "S'occuper de la gestion administrative, financière et de recrutement de l’école"
+        },
+        {
+          "aw": "Participer à l’élaboration de la stratégie commerciale."
+        }
+      ],
+      "fromDate": "Avril 2017 -",
+      "toDate": "Présent",
+      "logoUrl": "https://codecodecodec.com/wp-content/uploads/2018/04/cropped-CCC_Logo_4_Couleurs-2017-2.png"
+    },
+    {
+      "position": "Développeur Informatique",
+      "organization": "VO DSI",
+      "city": "Paris",
+      "aboutWork": [
+        {
+          "aw": "Préparer et installer le matériel et/ou logiciel des systèmes et réseaux informatiques"
+        },
+        {
+          "aw": "Diagnostiquer et corriger des dysfonctionnements"
+        },
+        {
+          "aw": "Gérer des projets web"
+        },
+        {
+          "aw": "Assurer le développement et la maintenance de sites web"
+        }
+      ],
+      "fromDate": "Octobre 2017 -",
+      "toDate": "Août 2019",
+      "logoUrl": "https://vodsi.com/wp-content/uploads/2018/05/cropped-vodsi-e1524582194173.png"
+    }
+  ],
+  "education": [
+    {
+      "university": "IN'TECH groupe ESIEA",
+      "degree": "MASTER d'Expert en Ingenierie Logiciel",
+      "gpa": "",
+      "fromDate": "2019 -",
+      "toDate": "2021",
+      "logoUrl": "data:image/png;base64,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"
+    },
+    {
+      "university": "CNAM",
+      "degree": "DUT Informatique",
+      "gpa": "",
+      "fromDate": "",
+      "toDate": "2019",
+      "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHTKpkShHTIvw/company-logo_200_200/0?e=2159024400&v=beta&t=g9AanDbxnEL8Eo4xCO6jEJq2esTfxWTn5y4XECOCdG0"
+    },
+    {
+      "university": "Lycée Charles de Gaulle",
+      "degree": "BACCALAUREAT Scientifique Sciences de l'Ingénieur",
+      "gpa": "",
+      "fromDate": "",
+      "toDate": "2014",
+      "logoUrl": "https://lewebpedagogique.com/sciencesdelingenieur/files/2011/10/logo-default1.jpg"
+    }
+  ],
+  "skills": {
+    "hardskill": [
+      {
+        "name": "Agile Scrum"
+      },
+      {
+        "name": "Angular / React"
+      },
+      {
+        "name": "Bootstrap"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "HTML5/CSS3"
+      },
+      {
+        "name": "Java 11"
+      },
+      {
+        "name": "Javascript"
+      },
+      {
+        "name": "Lightning Component, LWC, APEX"
+      },
+      {
+        "name": "Mac, Windows & Linux"
+      },
+      {
+        "name": "Python"
+      }
+    ],
+    "softskill": [
+      {
+        "name": "Ambition"
+      },
+      {
+        "name": "Dynamisme"
+      },
+      {
+        "name": "Pédagogie"
+      },
+      {
+        "name": "Esprit d'analyse"
+      },
+      {
+        "name": "Force de proposition"
+      },
+      {
+        "name": "Perseverance"
+      },
+      {
+        "name": "Prise de parole"
+      },
+      {
+        "name": "Rigueur"
+      }
+    ],
+    "language": [
+      {
+        "name": "Anglais : B1 Intermediaire"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "title": "Enseignement",
+      "paragraphe" : "J'adore apprendre et transmettre mes connaissances. J'ai eu la chance d'être professeur d'informatique chez CodeCodeCodec. Le but était de sensibiliser la nouvelle génération au numérique et aux algorithmes de programmation.",
+      "url": "https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e35/66449922_159149228585964_1602178781590592218_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=_YzAegDFX34AX8p_QXd&oh=47b2916702c72593b5748023b63fbfd1&oe=5EEF8173"
+    },
+    {
+      "title": "Boxe",
+      "paragraphe" : "Je pratique la boxe chinoise (aussi appelé Sanda). Une pratique à la fois mentale et physique.",
+      "url": "https://ffwu.be/wp-content/uploads/2019/10/sanda2.jpg"
+
+    },
+    {
+      "title": "Cyclisme",
+      "paragraphe" : "Ma insuflé la concentration, le travail d'équipe ainsi que le dépassement de soi.",
+      "url": "https://www.stimium.com/wp-content/uploads/2019/06/progresser-cyclisme.jpg"
+    },
+    {
+      "title": "Football",
+      "paragraphe" : "Et plus particulièrement du PSG. Cela en dit long sur ma capacité à soutenir un projet auquel je crois (Ligue des champions), quel que soit les problèmes rencontrés.",
+      "url": "https://media.ouest-france.fr/v1/pictures/MjAyMDAxOWI1ZjMwOTkwMjVkZTgxMmZmNzJlN2MyYTUwNjI3OGU?width=480&height=270&focuspoint=50%2C24&cropresize=1&client_id=bpeditorial&sign=aa7b1db7c06dea97f7f84c2f8217dfec66b744ccd0295b5a9b1108f55bbd1d1c"
+    }
+  ],
+  "awards": [
+    {
+      "awardDetail": "11/2020",
+      "awardTitle": "Platform Developer I",
+      "awardOrg": "Salesforce"
+    },
+    {
+      "awardDetail": "10/2019",
+      "awardTitle": "Administrator",
+      "awardOrg": "Salesforce"
+    },
+    {
+      "awardDetail": "08/2019",
+      "awardTitle": "Angular",
+      "awardOrg": "OpenClassroom"
+    },
+    {
+      "awardDetail": "07/2019",
+      "awardTitle": "Java",
+      "awardOrg": "OpenClassroom"
+    },
+    {
+      "awardDetail": "04/2019",
+      "awardTitle": "Ruby",
+      "awardOrg": "OpenClassroom"
+    },
+    {
+      "awardDetail": "03/2019",
+      "awardTitle": "Linux",
+      "awardOrg": "OpenClassroom"
+    }
+  ]
+}
